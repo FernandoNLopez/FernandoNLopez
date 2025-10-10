@@ -1,6 +1,6 @@
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4C64F7&width=435&lines=Data+Engineering;Front-end+Developer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4C64F7&width=435&lines=Data+Engineering;Front-end+Developer" alt="Typing SVG" center="true" /></a>
   <h2> HI! I'm Fernando Lopez </h2>
   <a href="https://www.linkedin.com/in/fernandolopez-/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="30" width="30" /></a>
   <a href="fernandolopezcontact1@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail&perline=14" alt="gmail" height="30" width="30"  /></a>
