@@ -15,10 +15,9 @@
     <img align= "center" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" height="50" width="100" />
     <img align="center" src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=fff" height="90" width="115" />
     -->
-    <p align="center">
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?  i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=git,aws,css,docker,postgres,prisma,express,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+    </a>
 </p>
   </div>
   <div>
