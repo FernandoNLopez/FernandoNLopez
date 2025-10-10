@@ -6,6 +6,13 @@
   <a href="https://www.instagram.com/feernlopez" target="blank"><img align="center"src="https://github.com/user-attachments/assets/cbadc4b6-b2ec-4350-af83-2085f2226c6f"alt="discord" height="30" width="30" /></a>
   <a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="30" width="30" /></a>
 </div>
+
+<h2>🔭 I’m currently working on</h2>
+<p>
+  Hello! I'm Fernando, passionate about the Cloud environment and application development.
+I’m currently working at Seidor Analytics as an Analytics Consultant, where I’ve gained solid experience in Azure, Power BI, and SAP applications such as HANA Cloud and SAP Analytics Cloud. My work involves designing and implementing ETL and ELT processes, developing data analyses, and carrying out data engineering tasks.
+</p>
+
 <div align="center">
   <h2> Tech Stack </h2>
   <div>
