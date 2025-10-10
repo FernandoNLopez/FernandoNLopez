@@ -16,7 +16,7 @@
     <img align="center" src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=fff" height="90" width="115" />
     -->
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,css,docker,postgres,prisma,express,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=py,git,aws,azure&perline=14" />
     </a>
 </p>
   </div>
@@ -26,6 +26,9 @@
     <img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="50" width="100" /> 
     <img align= "center" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="50" width="100" />
     -->
+     <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,nextjs,tailwind,mongodb,git,html,css,postman,vscode&perline=14" />
+    </a>
   </div>
 </div>
 
