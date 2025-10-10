@@ -11,7 +11,7 @@
   <div>
     <h3> Data Stack </h3>
     <img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" height="50" width="100" />
-    <img align="center" src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white" height="80" width="100" />
+    <img align="center" src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white" height="100" width="100" />
     <img align= "center" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" height="50" width="100" />
     <img align="center" src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=fff" height="90" width="115" />
     <img align="center" src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff" height="50" width="100"/>
