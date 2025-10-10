@@ -24,6 +24,7 @@
     <img align= "center" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="50" width="100" />
     -->
     <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,nextjs,tailwind,mongodb,threejs,git,html,css,postman,vscode&perline=14" />
+    <img src="file:///C:/Users/Seidor/Downloads/sap-svgrepo-com.svg"
   </div>
 </div>
 
