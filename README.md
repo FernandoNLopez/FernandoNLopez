@@ -16,9 +16,10 @@
       <img align= "center" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" height="50" width="100" />
       <img align="center" src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=fff" height="90" width="115" />
       <img align="center" src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff" height="50" width="100"/>
-      <img align="center" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="160" width="130" />
-      <img aling="center" src="https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff" height="50" width="100"/>
-    
+      <img align="center" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="160" width="130" /> 
+  </div>
+  <div>
+    <img aling="center" src="https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff" height="50" width="100"/>
   </div>
   <div>
     <h3> Developer Stack </h3>
