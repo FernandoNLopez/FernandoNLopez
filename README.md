@@ -10,12 +10,10 @@
   <h2> Tech Stack </h2>
   <div>
     <h3> Data Stack </h3>
-    <!--
     <img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" height="50" width="100" /> 
     <img align= "center" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" height="50" width="100" />
     <img align="center" src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=fff" height="90" width="115" />
-    -->
-    <img src="https://skillicons.dev/icons?i=py,git,aws,azure,&perline=14" />
+    <img align="center" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="50" width="100"
   </div>
   <div>
     <h3> Developer Stack </h3>
@@ -24,7 +22,6 @@
     <img align= "center" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="50" width="100" />
     -->
     <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,nextjs,tailwind,mongodb,threejs,git,html,css,postman,vscode&perline=14" />
-    <img src="file:///C:/Users/Seidor/Downloads/sap-svgrepo-com.svg"
   </div>
 </div>
 
