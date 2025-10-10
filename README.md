@@ -8,8 +8,8 @@
 </div>
 <div align="center">
     <h2> Tech Stack </h2>
-    <img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" height="40" width="70" /> 
-    <img align= "center" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" height="40" width="70" />
+    <img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" height="50" width="100" /> 
+    <img align= "center" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" height="50" width="100" />
 </div>
 
 
