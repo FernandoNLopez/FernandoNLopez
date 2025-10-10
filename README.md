@@ -17,8 +17,8 @@
   </div>
   <div>
     <h3> Developer Stack </h3>
-    <img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" height="50" width="100" /> 
-    <img align= "center" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" height="50" width="100" />
+    <img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="50" width="100" /> 
+    <img align= "center" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="50" width="100" />
   </div>
 </div>
 
