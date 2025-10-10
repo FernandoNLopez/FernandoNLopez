@@ -15,9 +15,7 @@
     <img align= "center" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" height="50" width="100" />
     <img align="center" src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=fff" height="90" width="115" />
     -->
-    
     <img src="https://skillicons.dev/icons?i=py,git,aws,azure,&perline=14" />
-</p>
   </div>
   <div>
     <h3> Developer Stack </h3>
