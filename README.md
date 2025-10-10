@@ -6,6 +6,10 @@
   <a href="https://www.instagram.com/feernlopez" target="blank"><img align="center"src="https://github.com/user-attachments/assets/cbadc4b6-b2ec-4350-af83-2085f2226c6f"alt="discord" height="30" width="30" /></a>
   <a href="discordapp.com/users/muhammed_mgdi" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="30" width="30" /></a>
 </div>
+<div align="center">
+    <h2> Tech Stack </h2>
+    ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
+</div>
 
 
 
