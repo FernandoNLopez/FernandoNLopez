@@ -1,8 +1,8 @@
 
 <div align="center">
   <h2> HI! I'm Fernando Lopez <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
-  <a href="https://www.linkedin.com/in/fernandolopez-/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="30"       width="30" /></a>
-  <a href="fernandolopezcontact1@gmail.com" target="blank"><img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/6d935082-a6bb-4f5d-be13-87b821d8421c" alt="gmail" height="30" width="30"  /></a>
+  <a href="https://www.linkedin.com/in/fernandolopez-/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="30" width="30" /></a>
+  <a href="fernandolopezcontact1@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail&perline=14" alt="gmail" height="30" width="30"  /></a>
   <a href="https://www.instagram.com/feernlopez" target="blank"><img align="center"src="https://github.com/user-attachments/assets/cbadc4b6-b2ec-4350-af83-2085f2226c6f"alt="discord" height="30" width="30" /></a>
   <a href="" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="30" width="30" /></a>
 </div>
