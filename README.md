@@ -8,7 +8,7 @@
 </div>
 <div align="center">
     <h2> Tech Stack </h2>
-    <img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" height="30" width="60" />
+    <img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" height="40" width="70" />
 </div>
 
 
