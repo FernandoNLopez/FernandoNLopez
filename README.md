@@ -12,7 +12,7 @@
     <h3> Data Stack </h3>
     <img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" height="50" width="100" /> 
     <img align= "center" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" height="50" width="100" />
-    <img align="center" src="https://custom-icon-badges.demolab.com/badge/ETL-9370DB?logo=etl-logo&logoColor=fff" height="30" width="100" />
+    <img align="center" src="https://custom-icon-badges.demolab.com/badge/ETL-9370DB?logo=etl-logo&logoColor=fff" height="30" width="80" />
     <img align="center" src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=fff" height="90" width="115" />
   </div>
   <div>
