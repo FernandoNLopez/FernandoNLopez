@@ -16,7 +16,7 @@
     <img align="center" src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=fff" height="90" width="115" />
     -->
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,git,aws,azure&perline=14" />
+    <img src="https://skillicons.dev/icons?i=py,git,aws,azure,hana&perline=14" />
     </a>
 </p>
   </div>
