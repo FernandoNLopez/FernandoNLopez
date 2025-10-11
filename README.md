@@ -44,6 +44,7 @@
     <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="40" />
     <img src="https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff" height="40" />
     <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white" height="40"
   </div>
 </div>
 
