@@ -51,6 +51,7 @@
     <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="40" />
     <img src="https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff" height="40" />
     <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff" height="40" />
     <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" height="40" />
     <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" height="40" />
     <img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff" height="40" />
