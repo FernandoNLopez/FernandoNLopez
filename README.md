@@ -71,8 +71,11 @@
   achieved certifications such as <b>Azure Data Fundamentals (AZ-900)</b> and 
   <b>Fabric Data Engineer Associate (DP-700)</b>.
 </p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS re/Start" height="50"/>
-<img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="Azure Data Fundamentals" height="80"/>
-<img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" alt="Fabric Data Engineer Associate" height="80"/>
-</div>
+<h2 align="center">🏅 Certifications</h2>
+
+<p align="center">
+  <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/aws-cloud-practitioner-certification-prep/learn-about-the-aws-certified-cloud-practitioner-exam/images/8ef555de1a79ee04d46f669f807e8626_8-e-63168-f-d-72-f-4272-8994-6779-eec-75-ce-9.png" alt="AWS Certified Cloud Practitioner" height="100"/>
+  <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-azure-data-fundamentals-badge.svg" alt="Azure Data Fundamentals (AZ-900)" height="100"/>
+  <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fabric-data-engineer-associate-badge.svg" alt="Fabric Data Engineer Associate (DP-700)" height="100"/>
+</p>
 <!--<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,nextjs,tailwind,mongodb,threejs,git,html,css,postman,vscode&perline=14" /> -->
