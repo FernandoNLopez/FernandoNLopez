@@ -31,10 +31,11 @@
       <img src="https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff" height="40" />
       <img src="https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white" height="40" />
       <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=fff" height="40" />
+          <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white" height="40" />
       <img src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff" height="40" />
       <img src="https://img.shields.io/badge/SAP%20Analytics%20Cloud-002C66?logo=sap&logoColor=fff" height="40" />
-      <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white" height="40"
       <img src="https://img.shields.io/badge/Microsoft%20Excel%20-%2334A853.svg?logo=google%20sheets&logoColor=white" height="40" />
+
   </div>
   <div
     align="center"
@@ -42,6 +43,7 @@
     <h3 align="start"> Developer Stack </h3>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" height="40" /> 
     <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" height="40" />
+    <img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white" height="40" />
     <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" height="40" />
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" height="40" />
     <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="40" />
