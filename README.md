@@ -58,4 +58,18 @@
     <img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff" height="40" />
   </div>
 </div>
+
+<div>
+  <h2 align="center">🎓 About Me</h2>
+
+<p align="center">
+  I’m currently pursuing a <b>Bachelor’s Degree in Computer Systems Engineering</b> at 
+  <i>Universidad Abierta Interamericana</i>.<br><br>
+  ☁️ My journey in tech began with the <b>AWS re/Start</b> program, where I built a solid foundation 
+  in Cloud Computing and earned my first certification as a <b>Cloud Practitioner</b>.
+  💼 During my time at <b>Seidor</b>, I’ve gained hands-on experience in the <b>SAP ecosystem</b> and 
+  achieved certifications such as <b>Azure Data Fundamentals (AZ-900)</b> and 
+  <b>Fabric Data Engineer Associate (DP-700)</b>.
+</p>
+</div>
 <!--<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,nextjs,tailwind,mongodb,threejs,git,html,css,postman,vscode&perline=14" /> -->
