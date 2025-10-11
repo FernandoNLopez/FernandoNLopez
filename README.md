@@ -24,9 +24,9 @@
     display="flex">
     <h3 align="start">  Data Analytics and Data Engineering Stack  </h3>
       <p align="start"> Thanks to my background in Data and my hands-on experience, I’ve had the opportunity to work with a variety of different tools: </p>
-      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" height="40" />
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=FFD700" height="40" />
       <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-fff?logo=msazure&logoColor=0089D6" height="150"/>
-      <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white" height="40" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-00008B?logo=mssqlserver-white&logoColor=white" height="40" />
       <img src="https://img.shields.io/badge/SAP HANA-0FAAFF?logo=sap&logoColor=fff" height="40" />
       <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff" height="40" />
       <img src="https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff" height="40" />
