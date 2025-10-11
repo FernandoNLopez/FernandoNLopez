@@ -17,14 +17,17 @@ I’m currently working at Seidor Analytics as an Analytics Consultant, where I�
 <div align="center">
   <h2>Tech Stack</h2>
   
-  <div align="center">
-  <div style="
-    display: grid; 
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); 
-    gap: 20px; 
-    justify-items: center;
-    align-items: start;
-  ">
+  <h2 align="center">⚙️ Tech Stack</h2>
+
+<div align="center" style="
+  display: grid; 
+  grid-template-columns: repeat(2, minmax(150px, 1fr)); 
+  gap: 10px; 
+  justify-items: center;
+  align-items: center;
+  max-width: 600px;
+  margin: auto;
+">
 
   <!-- Primera columna -->
   <div>
