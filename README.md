@@ -23,7 +23,7 @@
     align="center"
     display="flex">
     <h3 align="start">  Data Analytics and Data Engineering Stack  </h3>
-      <p> Thanks to my background in Data and my hands-on experience, I’ve had the opportunity to work with a variety of different tools: </p>
+      <p align="start"> Thanks to my background in Data and my hands-on experience, I’ve had the opportunity to work with a variety of different tools: </p>
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" height="40" />
       <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-fff?logo=msazure&logoColor=0089D6" height="150"/>
       <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white" height="40" />
