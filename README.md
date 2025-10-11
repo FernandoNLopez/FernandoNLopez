@@ -36,12 +36,12 @@
       <img src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff" height="40" />
       <img src="https://img.shields.io/badge/SAP%20Analytics%20Cloud-002C66?logo=sap&logoColor=fff" height="40" />
       <img src="https://img.shields.io/badge/Microsoft%20Excel%20-%2334A853.svg?logo=google%20sheets&logoColor=white" height="40" />
-
   </div>
   <div
     align="center"
     display="flex">
     <h3 align="start"> Developer Stack 🔨 </h3>
+    <p align="start"> With over 3 years of experience as a Front-End Developer specialized in React, I have developed strong skills in the following technologies: </p>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" height="40" /> 
     <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" height="40" />
     <img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=000" height="40" />
