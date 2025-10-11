@@ -33,7 +33,7 @@
       <img src="https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white" height="40" />
       <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=fff" height="40" />
       <img src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff" height="40" />
-      <img src="https://img.shields.io/badge/SAP%20Analytics%20Cloud-002C66?style=for-the-badge&logo=sap&logoColor=white" height="40" />
+      <img src="https://img.shields.io/badge/SAP%20Analytics%20Cloud-002C66?logo=sap&logoColor=fff" height="40" />
       
   </div>
     <h3 align="center"> Developer Stack </h3>
