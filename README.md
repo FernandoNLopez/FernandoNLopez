@@ -24,14 +24,16 @@
     display="flex"
     >
     <h3 align="start">  Data Analytics and Data Engineering Stack  </h3>
-      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" height="40"
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" height="40" />
       <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white" height="150"/>
       <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white" height="40" />
+      <img src="https://img.shields.io/badge/SAP%20HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" height="40" />
       <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff" height="40" />
       <img src="https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff" height="40" />
       <img src="https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white" height="40" />
       <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=fff" height="40" />
       <img src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff" height="40" />
+      <img src="https://img.shields.io/badge/SAP%20Analytics%20Cloud-002C66?style=for-the-badge&logo=sap&logoColor=white" height="40" />
       
   </div>
     <h3 align="center"> Developer Stack </h3>
