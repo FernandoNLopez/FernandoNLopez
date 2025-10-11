@@ -19,15 +19,9 @@
 <div>
   <h2 align="center">⚙️Tech Stack</h2>
   <div      
-    align="center" style="
-    display: grid; 
-    grid-template-columns: repeat(2, minmax(150px, 1fr)); 
-    gap: 10px; 
-    justify-items: center;
-    align-items: center;
-    max-width: 600px;
-    margin: auto;
-    " >
+    align="center"
+    display="flex"
+    >
       <ul>
         <li><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" height="40" /></li>
         <li><img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white" height="40" /></li>
