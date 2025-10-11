@@ -71,5 +71,8 @@
   achieved certifications such as <b>Azure Data Fundamentals (AZ-900)</b> and 
   <b>Fabric Data Engineer Associate (DP-700)</b>.
 </p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS re/Start" height="50"/>
+<img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="Azure Data Fundamentals" height="80"/>
+<img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" alt="Fabric Data Engineer Associate" height="80"/>
 </div>
 <!--<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,nextjs,tailwind,mongodb,threejs,git,html,css,postman,vscode&perline=14" /> -->
