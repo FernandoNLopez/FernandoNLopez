@@ -17,7 +17,7 @@ Iâ€™m currently working at Seidor Analytics as an Analytics Consultant, where Iâ
 <div align="center">
   <h2> Tech Stack </h2>
   <div>
-    <h3> Data Stack </h3>
+    <h3 align="start"> Data Stack </h3>
       <img align="center" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" height="50" width="100" />
       <img align="center" src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white" height="200" width="150" />
       <img align="center" src="https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white"/>
