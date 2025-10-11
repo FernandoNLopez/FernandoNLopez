@@ -14,10 +14,9 @@
 I’m currently working at Seidor Analytics as an Analytics Consultant, where I’ve gained solid experience in Azure, Power BI, and SAP applications such as HANA Cloud and SAP Analytics Cloud. My work involves designing and implementing ETL and ELT processes, developing data analyses, and carrying out data engineering tasks.
 </p>
 
-<div align="center">
   <h2>Tech Stack</h2>
   
-  <h2 align="center">⚙️ Tech Stack</h2>
+<h2 align="center">⚙️ Tech Stack</h2>
 
 <div align="center" style="
   display: grid; 
@@ -29,26 +28,16 @@ I’m currently working at Seidor Analytics as an Analytics Consultant, where I�
   margin: auto;
 ">
 
-  <!-- Primera columna -->
-  <div>
-    <h3 align="center">🧠 Data Stack</h3>
-    <p align="center">
-      <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" height="40" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white" height="40" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white" height="40" />
-      <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" height="40" />
-      <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=fff" height="40" />
-      <img src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff" height="40" />
-      <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="40" />
-      <img src="https://img.shields.io/badge/SAP%20HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" height="40" />
-      <img src="https://img.shields.io/badge/SAP%20Analytics%20Cloud-002C66?style=for-the-badge&logo=sap&logoColor=white" height="40" />
-      <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="40" />
-      <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="40" />
-    </p>
-  </div>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" height="40" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white" height="40" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=fff" height="40" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff" height="40" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="40" />
 
-  </div>
 </div>
+
     <h3> Developer Stack </h3>
     <!--
     <img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="50" width="100" /> 
