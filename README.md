@@ -2,6 +2,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=4C64F7&center=true&vCenter=true&width=435&lines=Data+Engineering;Front-end+Developer"        alt="Typing SVG" />
   <h2> HI! I'm Fernando Lopez </h2>
+  <p>Hello! I'm Fernando, passionate about the Cloud environment and application development.</p>
   <a href="https://www.linkedin.com/in/fernandolopez-/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="30" width="30" /></a>
   <a href="fernandolopezcontact1@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail&perline=14" alt="gmail" height="30" width="30"  /></a>
   <a href="https://www.instagram.com/feernlopez" target="blank"><img align="center"src="https://github.com/user-attachments/assets/cbadc4b6-b2ec-4350-af83-2085f2226c6f"alt="discord" height="30" width="30" /></a>
@@ -11,7 +12,6 @@
 <div>
   <h2>🔭 I’m currently working on</h2>
   <p>
-    Hello! I'm Fernando, passionate about the Cloud environment and application development.
     I’m currently working at Seidor Analytics as an Analytics Consultant, where I’ve gained solid experience in Azure, Power BI, and SAP applications such as HANA Cloud and SAP Analytics        Cloud. My work involves designing and implementing ETL and ELT processes, developing data analyses, and carrying out data engineering tasks.
   </p>
 </div>
@@ -40,9 +40,6 @@
 
 
 <!--
-**FernandoNLopez/FernandoNLopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
