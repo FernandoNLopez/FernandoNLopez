@@ -38,8 +38,10 @@
       
   </div>
     <h3 align="start"> Developer Stack </h3>
-    <img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="40" /> 
+    <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" height="40" /> 
+    <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" height="40" />
     <img align= "center" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff" height="40" />
 </div>
 
 
