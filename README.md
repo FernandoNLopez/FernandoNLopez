@@ -64,7 +64,7 @@
 
   <p align="center">
     I’m currently pursuing a <b>Bachelor’s Degree in Computer Systems Engineering</b> at 
-    <i>Universidad Abierta Interamericana</i>.<br><br>
+    <i>Universidad Abierta Interamericana</i> and <i>Universidad de Buenos Aires</i><br><br>
     ☁️ My journey in tech began with the <b>AWS re/Start</b> program, where I built a solid foundation 
     in Cloud Computing and earned my first certification as a <b>Cloud Practitioner</b>.
     💼 During my time at <b>Seidor</b>, I’ve gained hands-on experience in the <b>SAP ecosystem</b> and 
