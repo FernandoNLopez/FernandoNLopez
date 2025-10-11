@@ -37,9 +37,9 @@
       <img src="https://img.shields.io/badge/Microsoft%20Excel%20-%2334A853.svg?logo=google%20sheets&logoColor=white" height="40" />
       
   </div>
-    <h3 align="center"> Developer Stack </h3>
-    <img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="50" width="100" /> 
-    <img align= "center" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="50" width="100" />
+    <h3 align="start"> Developer Stack </h3>
+    <img align="center" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="40" /> 
+    <img align= "center" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="40" />
 </div>
 
 
