@@ -23,6 +23,7 @@
     align="center"
     display="flex">
     <h3 align="start">  Data Analytics and Data Engineering Stack  </h3>
+      <p> Thanks to my background in Data and my hands-on experience, I’ve had the opportunity to work with a variety of different tools: </p>
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" height="40" />
       <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-fff?logo=msazure&logoColor=0089D6" height="150"/>
       <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white" height="40" />
@@ -51,6 +52,7 @@
     <img src="https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff" height="40" />
     <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" height="40" />
     <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" height="40" />
     <img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff" height="40" />
   </div>
 </div>
