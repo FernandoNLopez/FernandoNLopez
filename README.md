@@ -40,34 +40,18 @@
   <div
     align="center"
     display="flex">
-    <h3 align="start"> Developer Stack </h3>
+    <h3 align="start"> Developer Stack 🔨 </h3>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" height="40" /> 
     <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" height="40" />
     <img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=000" height="40" />
     <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" height="40" />
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" height="40" />
-    <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" height="40"
+    <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" height="40" />
     <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="40" />
     <img src="https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff" height="40" />
     <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" height="40" />
     <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" height="40" />
     <img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff" height="40" />
-  
   </div>
 </div>
-
-
-
-
-<!--
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <!--<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,nextjs,tailwind,mongodb,threejs,git,html,css,postman,vscode&perline=14" /> -->
