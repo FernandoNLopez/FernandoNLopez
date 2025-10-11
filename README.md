@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=4C64F7&center=true&vCenter=true&width=435&lines=Data+Engineering;Full-Stack%20Developer"        alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=4C64F7&center=true&vCenter=true&width=435&lines=Data+Engineer;Full-Stack%20Developer"        alt="Typing SVG" />
   <h2> HI! I'm Fernando Lopez </h2>
   <p>  I´m a passionate about the Cloud environment and application development.  </p>
   <p> - 📫 How to reach me: </p>
