@@ -37,20 +37,10 @@ I’m currently working at Seidor Analytics as an Analytics Consultant, where I�
       <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=fff" height="40" />
       <img src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff" height="40" />
       <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="40" />
-    </p>
-  </div>
-
-  <!-- Segunda columna -->
-  <div>
-    <h3 align="center">☁️ Cloud & Tools</h3>
-    <p align="center">
       <img src="https://img.shields.io/badge/SAP%20HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" height="40" />
       <img src="https://img.shields.io/badge/SAP%20Analytics%20Cloud-002C66?style=for-the-badge&logo=sap&logoColor=white" height="40" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="40" />
-      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="40" />
-      <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="40" />
       <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="40" />
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="40" />
     </p>
   </div>
 
