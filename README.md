@@ -21,8 +21,7 @@
   <h2 align="center">⚙️Tech Stack</h2>
   <div      
     align="center"
-    display="flex"
-    >
+    display="flex">
     <h3 align="start">  Data Analytics and Data Engineering Stack  </h3>
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" height="40" />
       <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white" height="150"/>
@@ -35,13 +34,17 @@
       <img src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff" height="40" />
       <img src="https://img.shields.io/badge/SAP%20Analytics%20Cloud-002C66?logo=sap&logoColor=fff" height="40" />
       <img src="https://img.shields.io/badge/Microsoft%20Excel%20-%2334A853.svg?logo=google%20sheets&logoColor=white" height="40" />
-      
   </div>
+  <div
+    align="center"
+    display="flex">
     <h3 align="start"> Developer Stack </h3>
-    <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" height="40" /> 
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" height="40" /> 
     <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" height="40" />
-    <img align= "center" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="40" />
     <img src="https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff" height="40" />
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" height="40" />
+  </div>
 </div>
 
 
