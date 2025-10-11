@@ -62,18 +62,18 @@
 <div>
   <h2 align="center">🎓 About Me</h2>
 
-<p align="center">
-  I’m currently pursuing a <b>Bachelor’s Degree in Computer Systems Engineering</b> at 
-  <i>Universidad Abierta Interamericana</i>.<br><br>
-  ☁️ My journey in tech began with the <b>AWS re/Start</b> program, where I built a solid foundation 
-  in Cloud Computing and earned my first certification as a <b>Cloud Practitioner</b>.
-  💼 During my time at <b>Seidor</b>, I’ve gained hands-on experience in the <b>SAP ecosystem</b> and 
-  achieved certifications such as <b>Azure Data Fundamentals (AZ-900)</b> and 
-  <b>Fabric Data Engineer Associate (DP-700)</b>.
-</p>
-<h2 align="center">🏅 Certifications</h2>
-
+  <p align="center">
+    I’m currently pursuing a <b>Bachelor’s Degree in Computer Systems Engineering</b> at 
+    <i>Universidad Abierta Interamericana</i>.<br><br>
+    ☁️ My journey in tech began with the <b>AWS re/Start</b> program, where I built a solid foundation 
+    in Cloud Computing and earned my first certification as a <b>Cloud Practitioner</b>.
+    💼 During my time at <b>Seidor</b>, I’ve gained hands-on experience in the <b>SAP ecosystem</b> and 
+    achieved certifications such as <b>Azure Data Fundamentals (AZ-900)</b> and 
+    <b>Fabric Data Engineer Associate (DP-700)</b>.
+  </p>
+</div>
 <div align="center">
+  <h2 align="center">🏅 Certifications</h2>
   <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/aws-cloud-practitioner-certification-prep/learn-about-the-aws-certified-cloud-practitioner-exam/images/8ef555de1a79ee04d46f669f807e8626_8-e-63168-f-d-72-f-4272-8994-6779-eec-75-ce-9.png" alt="AWS Certified Cloud Practitioner" height="100"/>
   <img src="https://www.signon.nl/wp-content/uploads/2020/05/Microsoft-Azure-Fundamentals-AZ-900.png" height="100" />
   <img src="https://k21academy.com/wp-content/uploads/2025/03/DP-700-1-1024x1024.png" height="100" />
